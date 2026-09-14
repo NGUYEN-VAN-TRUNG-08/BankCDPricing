@@ -4,7 +4,7 @@ Can bank CDs trading at YTMs above the issuing bank's comparable rate generate s
 
 ## 2. Market Mechanism
 
-Users can now sell CDs before maturity to other users instead of selling to the bank and forfeiting interest payments.
+Users can now sell CDs before maturity to other users instead of selling to the bank and forfeiting interest payments. CDs can be split into smaller CDs.
 
 CDs are listed on the TransferD mini app within the MBB app. Listings include the asking price, maturity length, and payment at maturity. If another user agrees to the asking price, they pay the amount and receive the CD. A listing can expire before anyone buys it.
 
