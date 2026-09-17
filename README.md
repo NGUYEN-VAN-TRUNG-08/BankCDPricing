@@ -26,7 +26,7 @@ Resell Price = Payment / ((1 + i + Liquidity Spread)^(Days to Maturity / 365))
 
 *Liquidity Spread affects liquidity; the higher the spread, the easier it is to sell the CD.*
 
-Annualized Return = (Resell Price / Asking Price)^(365 / (Days to Maturity - Holding Period)) - 1
+Annualized Return = (Resell Price / Asking Price)^(365 / Holding Period) - 1
 
 ## 4. Trading Rule
 
