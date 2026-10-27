@@ -40,6 +40,12 @@ Choose the Liquidity Spread so that the annualized return equals the desired ROI
 
 Data are collected from actual listings and realized trades (currency in VND).
 
+### Data Model Update — 2026-10-27
+
+- Removed the CD ID field across all sheets.
+- CD IDs are inconsistent and cannot reliably identify or track the same CD across observations. Collecting them also slows down data collection.
+- The updated model no longer uses CD ID to link records across sheets or track individual CDs over time. Analyses requiring reliable CD-level tracking will need a validated alternative identifier.
+
 ## 6. Results
 
 - Number of trades:
